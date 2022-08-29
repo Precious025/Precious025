@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Precious025
-- 👀 I’m interested in Machine Learning and Mobile Application development.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on Application development projects that involves using machine learning algorithms. 
+- 👀 I’m interested in both Mobile Application development and Building Web Applications.
+- 🌱 I’m currently learning Flutter and Golang.
+- 💞️ I’m looking to collaborate on Application development projects.
 - 📫 How to reach me @original_Shubbs on twitter.
 
 <!---
