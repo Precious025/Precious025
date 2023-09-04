@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Precious025
-- 👀 I’m interested in both Mobile Application development and Building Web Applications.
+- 👀 I’m interested in Mobile Application development, Machine Learning and Building Web Applications.
 - 🌱 I’m currently learning Flutter and Golang.
 - 💞️ I’m looking to collaborate on Application development projects.
 - 📫 How to reach me @original_Shubbs on twitter.
